@@ -1,0 +1,27 @@
+header{
+    background-color: lightblue;
+}
+
+h1{
+    color: #AA336A;
+}
+
+nav{
+    border-bottom: 2px solid black;
+}
+
+nav ul li{
+    display: inline;
+    padding-left: 20px;
+    font-size: 18px;
+}
+
+footer{
+    text-align: center;
+}
+
+.box{
+    background-color: lightgrey;
+    padding: 20px;
+}
+
